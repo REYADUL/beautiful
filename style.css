@@ -1,0 +1,48 @@
+title{
+    color:red;
+}
+h1{
+    color:#00807acb;
+} 
+p {
+    font-size:23px;
+    color:#ff6347d2;
+    font-weight: 300;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#hypo{
+    color:black;
+    font-size: 15px;
+}
+div{
+    color:#0cd463;
+    background-color:black;
+    height: 270px;
+    width: 80%;
+    font-size:21px;
+   
+}
+img{
+    width: 35%;
+}
+.has{
+    color:red ;
+    font-size: 36px;
+    font-weight: 900%;
+}
+.garments{
+    border: 15px dotted blueviolet;
+    border-radius: 100%;
+    margin: 3% ;
+    color:purple;
+    background-color:crimson;
+    width: 30%;
+    font-size:11px;
+    padding: 2%;
+    text-align:justify;
+    float: left;
+
+}
+h2{
+    text-align: center;
+}
