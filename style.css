@@ -4,6 +4,15 @@ title{
 h1{
     color:#00807acb;
 } 
+.half-width{
+    float: left;
+    width:40%
+
+}
+img:hover {
+    box-shadow: 5px 5px 5px 5px rgba(0, 140, 186, 0.5);
+  }  
+    
 p {
     font-size:23px;
     color:#ff6347d2;
@@ -23,7 +32,8 @@ div{
    
 }
 img{
-    width: 35%;
+    width: 100%;
+    }
 }
 .has{
     color:red ;
